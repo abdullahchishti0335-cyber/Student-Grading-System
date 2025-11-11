@@ -70,3 +70,30 @@ for i in range(num_students):
 print("\n----Student Grades Result----")
 for result in students:
     print(f"Name: {result['name']}, Marks: {result['marks']}, Grade: {result['grade']}")
+
+## 💻 How to Run
+
+1. Make sure **Python 3.x** is installed: [Python Download](https://www.python.org/downloads/)  
+2. Install **Jupyter Notebook** (if not installed):
+   ```bash
+   pip install notebook
+
+3. Open the project folder in a terminal or command prompt.
+4. Start Jupyter Notebook:
+    ```bash
+    jupyter notebook
+
+5. Click on student_grading_system.ipynb to open it.
+6. Run the cells in order (Shift + Enter) and follow the prompts:
+    *Enter the total number of students*
+    *Enter each student’s name and marks*
+
+## 🧰 Requirements
+
+*Python 3.x*
+*Jupyter Notebook (optional, but recommended for running .ipynb files)*
+
+## 🧑‍💻 Author
+
+**Abdullah Rajpoot**
+🌐 GitHub: https://github.com/abdullahchishti0335-cyber
