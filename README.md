@@ -27,7 +27,7 @@ It uses **functions** for clean code, supports **multiple students**, and includ
 | 450 – 499    | A      |
 | 400 – 449    | B+     |
 | 350 – 399    | B      |
-| 300 – 349    | C+     |
+| 300 – 349    | C     |
 | 250 – 299    | D      |
 | Below 250    | F      |
 
@@ -48,7 +48,7 @@ def student_grades(marks):
     elif marks >= 350:
         return "B"
     elif marks >= 300:
-        return "C+"
+        return "C"
     elif marks >= 250:
         return "D"
     else:
