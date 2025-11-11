@@ -93,7 +93,7 @@ for result in students:
 ## 🧰 Requirements
 
 *Python 3.x*
-*Jupyter Notebook (optional, but recommended for running .ipynb files)*
+Jupyter Notebook (optional, but recommended for running .ipynb files)
 
 ## 🧑‍💻 Author
 
