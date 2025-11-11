@@ -99,3 +99,6 @@ for result in students:
 
 **Abdullah Rajpoot**
 🌐 GitHub: https://github.com/abdullahchishti0335-cyber
+
+## Tip:
+*You can also click on the .ipynb file in this repository directly to check a sample run/result without running it locally.*
