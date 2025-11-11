@@ -70,6 +70,8 @@ for i in range(num_students):
 print("\n----Student Grades Result----")
 for result in students:
     print(f"Name: {result['name']}, Marks: {result['marks']}, Grade: {result['grade']}")
+ ```
+
 
 ## 💻 How to Run
 
